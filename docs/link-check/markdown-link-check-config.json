@@ -1,0 +1,9 @@
+{
+    "ignorePatterns": [
+        { "pattern": "^\\." },
+        { "pattern": "^docs/en"},
+        { "pattern": "^/"},
+        { "pattern": "^http"},
+        { "pattern": "^@site/docs"}
+      ]
+}

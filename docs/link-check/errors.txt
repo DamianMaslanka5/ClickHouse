@@ -1,0 +1,172 @@
+
+  ERROR: 13 dead links found in ../en/sql-reference/dictionaries/index.md !
+  [✖] #embedded_dictionaries → Status: 404
+  [✖] #dictionary-sources → Status: 404
+  [✖] #configuring-a-dictionary → Status: 404
+  [✖] #range_hashed → Status: 404
+  [✖] #dictionary-key-and-fields → Status: 404
+  [✖] #dictionary-updates → Status: 404
+  [✖] #local_file → Status: 404
+  [✖] #executable → Status: 404
+  [✖] #https → Status: 404
+  [✖] #executable_pool → Status: 404
+  [✖] #http → Status: 404
+  [✖] #storig-dictionaries-in-memory → Status: 404
+  [✖] #hierarchical-dictionaries → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/aggregate-functions/combinators.md !
+  [✖] #aggregate_functions_combinators-merge → Status: 404
+  [✖] #aggregate_functions_combinators-mergestate → Status: 404
+
+  ERROR: 3 dead links found in ../en/sql-reference/aggregate-functions/parametric-functions.md !
+  [✖] #sequence-function-pattern-syntax → Status: 404
+  [✖] #function-sequencecount → Status: 404
+  [✖] #function-sequencematch → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/aggregate-functions/reference/varpop.md !
+  [✖] #varPopStable → Status: 404
+  [✖] #varPop → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/aggregate-functions/reference/varsamp.md !
+  [✖] #varSampStable → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/aggregate-functions/reference/stochasticlogisticregression.md !
+  [✖] #agg_functions-stochasticlinearregression-parameters → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/geo/geohash.md !
+  [✖] #geohash → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/geo/s2.md !
+  [✖] #s2index → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/geo/h3.md !
+  [✖] #h3index → Status: 404
+
+  ERROR: 10 dead links found in ../en/sql-reference/functions/other-functions.md !
+  [✖] #parseReadableSize → Status: 404
+  [✖] #parseReadableSizeOrZero → Status: 404
+  [✖] #parseReadableSizeOrNull → Status: 404
+  [✖] #formatReadableSize → Status: 404
+  [✖] #formatReadableDecimalSize → Status: 404
+  [✖] #is-decimal-overflow → Status: 404
+  [✖] #current-profiles → Status: 404
+  [✖] #initial-query-id → Status: 404
+  [✖] #query-id → Status: 404
+  [✖] #shard-num → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/ext-dict-functions.md !
+  [✖] #dictget-dictgetordefault-dictgetornull → Status: 404
+
+  ERROR: 15 dead links found in ../en/sql-reference/functions/string-search-functions.md !
+  [✖] #multiSearchAllPositions → Status: 404
+  [✖] #multiSearchFirstPositionCaseInsensitive → Status: 404
+  [✖] #multiSearchFirstPositionUTF8 → Status: 404
+  [✖] #multiSearchFirstPositionCaseInsensitiveUTF8 → Status: 404
+  [✖] #multiSearchFirstPosition → Status: 404
+  [✖] #multiSearchFirstIndexCaseInsensitive → Status: 404
+  [✖] #multiSearchFirstIndexUTF8 → Status: 404
+  [✖] #multiSearchFirstIndexCaseInsensitiveUTF8 → Status: 404
+  [✖] #multiSearchAnyCaseInsensitive → Status: 404
+  [✖] #multiSearchAnyUTF8 → Status: 404
+  [✖] #like → Status: 404
+  [✖] #extractallgroups-vertical → Status: 404
+  [✖] #ngramSearch → Status: 404
+  [✖] #hasSubsequence → Status: 404
+  [✖] #hasSubsequenceUTF8 → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/rounding-functions.md !
+  [✖] #rounding_functions-round → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/ip-address-functions.md !
+  [✖] #ipv6stringtonums → Status: 404
+
+  ERROR: 15 dead links found in ../en/sql-reference/functions/date-time-functions.md !
+  [✖] #makeDate → Status: 404
+  [✖] #serverTimeZone → Status: 404
+  [✖] #timeZone → Status: 404
+  [✖] #formatDateTime → Status: 404
+  [✖] date-time-functions#toweek → Status: 400
+  [✖] #fromDaysSinceYearZero → Status: 404
+  [✖] #toDaysSinceYearZero → Status: 404
+  [✖] #tostartofintervaldate_or_date_with_time-interval-x-unit--time_zone → Status: 404
+  [✖] #addDate → Status: 404
+  [✖] #subDate → Status: 404
+  [✖] #now → Status: 404
+  [✖] ##formatDateTimeInJodaSyntax → Status: 404
+  [✖] #formatdatetime → Status: 404
+  [✖] ##fromUnixTimestampInJodaSyntax → Status: 404
+  [✖] #fromUnixTimestamp → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/functions/hash-functions.md !
+  [✖] #siphash64 → Status: 404
+  [✖] #md5 → Status: 404
+
+  ERROR: 7 dead links found in ../en/sql-reference/functions/type-conversion-functions.md !
+  [✖] #numeric-conversion-issues → Status: 404
+  [✖] #type_conversion_function-reinterpret → Status: 404
+  [✖] #type_conversion_function-cast → Status: 404
+  [✖] #type_conversion_functions-parseDateTime → Status: 404
+  [✖] #parsedatetime → Status: 404
+  [✖] #type_conversion_functions-parseDateTimeInJodaSyntax → Status: 404
+  [✖] #parsedatetimebesteffortUS → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/string-functions.md !
+  [✖] #stringJaccardIndex → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/json-functions.md !
+  [✖] #simplejson--visitparam-functions → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/functions/bitmap-functions.md !
+  [✖] #bitmap_functions-bitmapbuild → Status: 404
+  [✖] #bitmap_functions-bitmapcontains → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/functions/uuid-functions.md !
+  [✖] #uuid-function-generate → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/functions/array-functions.md !
+  [✖] #reverse-sort → Status: 404
+  [✖] #arrayreverse → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/table-functions/file.md !
+  [✖] #globs_in_path → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/table-functions/fileCluster.md !
+  [✖] #globs_in_path → Status: 404
+
+  ERROR: 3 dead links found in ../en/sql-reference/data-types/geo.md !
+  [✖] #point-data-type → Status: 404
+  [✖] #ring-data-type → Status: 404
+  [✖] #polygon-data-type → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/statements/grant.md !
+  [✖] #admin-option-privilege → Status: 404
+  [✖] #display-secrets → Status: 404
+
+  ERROR: 1 dead links found in ../en/sql-reference/statements/create/view.md !
+  [✖] #live-view-experimental → Status: 404
+
+  ERROR: 3 dead links found in ../en/sql-reference/statements/system.md !
+  [✖] #query_language-system-stop-distributed-sends → Status: 404
+  [✖] #query_language-system-flush-distributed → Status: 404
+  [✖] #query_language-system-start-distributed-sends → Status: 404
+
+  ERROR: 3 dead links found in ../en/sql-reference/statements/select/sample.md !
+  [✖] #select-sample-k → Status: 404
+  [✖] #select-sample-n → Status: 404
+  [✖] #select-sample-offset → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/statements/alter/partition.md !
+  [✖] #alter_attach-partition → Status: 404
+  [✖] #alter_drop-detached → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/statements/alter/column.md !
+  [✖] partition.md/#how-to-set-partition-expression → Status: 400
+  [✖] #alter_add-column → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/syntax.md !
+  [✖] #expression_aliases → Status: 404
+  [✖] #syntax-keywords → Status: 404
+
+  ERROR: 2 dead links found in ../en/sql-reference/operators/in.md !
+  [✖] #settings-max_parallel_replicas → Status: 404
+  [✖] #settings-parallel_replicas_custom_key → Status: 404
